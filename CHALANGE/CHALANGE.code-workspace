@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../CSS"
+		},
+		{
+			"path": "../HTML"
+		},
+		{
+			"path": "../JS"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CHALANGE"
+	}
+}
